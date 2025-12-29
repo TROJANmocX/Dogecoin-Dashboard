@@ -61,5 +61,8 @@ MIT
 
 ---
 
+
 **Project Description:**  
 Dogecoin Dashboard is a full-stack web application for visualizing and predicting Dogecoin prices. It combines a modern React/Next.js frontend with a FastAPI backend, allowing for both rapid prototyping (with a mock API) and real AI-powered predictions. The dashboard is designed for extensibility, clean UI, and ease of use for both developers and end-users.
+
+<!-- Deployment Trigger: 2025-12-29 -->
